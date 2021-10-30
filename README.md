@@ -4,6 +4,7 @@ Battleship language c terminal game
 ![](imagens/tabuleiro.png)
 
 *The game is played by two players in the terminal
+
 *The program starts analyzing predetermined text files that compose the board of the players
 
 ![](imagens/textBoard.png)
