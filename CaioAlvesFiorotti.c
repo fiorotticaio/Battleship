@@ -15,7 +15,6 @@ void ImprimeMatrizJogador(char matrizJogador[10][20], FILE *saida);
 
 typedef struct{
     char nome[17];
-    int idade;
 } tJogador;
 
 tJogador LeNomeJogador();
