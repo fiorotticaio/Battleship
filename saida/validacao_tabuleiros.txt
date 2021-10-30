@@ -1,0 +1,3 @@
+tabu_1.txt;valido
+tabu_2.txt;valido
+Tabuleiros compativeis entre si

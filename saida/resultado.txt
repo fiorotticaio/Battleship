@@ -1,0 +1,13 @@
+Caio
+h5 - Agua
+a2 - Agua
+g3 - Tiro - Submarine - ID 01
+h3 - Tiro - Submarine - ID 01
+
+Gabriel
+b7 - Agua
+a2 - Tiro - Submarine - ID 01
+a3 - Tiro - Submarine - ID 01
+a4 - Tiro - Submarine - ID 01
+
+Vencedor: Gabriel

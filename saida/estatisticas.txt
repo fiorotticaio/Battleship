@@ -1,0 +1,15 @@
+Caio
+Tiros Errados: 2
+Tiros Acertados: 2
+Localizacao Media: (6.00,3.25)
+Desvio Padrao da Localizacao: 3.11
+Navios de Caio:
+02 - Submarine - ID 01
+
+Gabriel
+Tiros Errados: 1
+Tiros Acertados: 3
+Localizacao Media: (1.25,4.00)
+Desvio Padrao da Localizacao: 1.92
+Navios de Gabriel:
+03 - Submarine - ID 01
